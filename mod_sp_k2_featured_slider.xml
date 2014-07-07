@@ -12,6 +12,7 @@
 	<files>
 		<filename module="mod_sp_k2_featured_slider">mod_sp_k2_featured_slider.php</filename>
 		<folder>tmpl</folder>
+		<folder>assets</folder>
 		<filename>helper.php</filename>
 		<filename>index.html</filename>
 		<filename>mod_sp_k2_featured_slider.xml</filename>
