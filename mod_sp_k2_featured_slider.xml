@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.3" client="site" method="upgrade">
-	<name>SP K2 Featured Slider</name>
+	<name>SP Featured Slider for K2</name>
 	<author>JoomShaper</author>
 	<creationDate>July 2014</creationDate>
 	<copyright>Copyright (C) 2010 - 2014 JoomShaper. All rights reserved.</copyright>
